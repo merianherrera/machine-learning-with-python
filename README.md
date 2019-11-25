@@ -1,4 +1,4 @@
-## Machine Learning Basic with Python
+## Machine Learning Basics with Python
 #### **Course URL**
 https://www.udemy.com/curso-machine-learning/
 
